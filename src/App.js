@@ -11,7 +11,7 @@ function App() {
         </div>
       </HashRouter>
     </div>
-  );``
+  );
 }
 
 export default App;
